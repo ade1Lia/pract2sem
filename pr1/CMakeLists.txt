@@ -3,4 +3,4 @@ project(1pract2sem)
 
 set(CMAKE_CXX_STANDARD 23)
 
-add_executable(1pract2sem main.cpp pr1.hpp)
+add_executable(1pract2sem main.cpp)
